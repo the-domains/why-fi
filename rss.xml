@@ -4,11 +4,18 @@
         <description><![CDATA[Why Fi]]></description>
         <link>https://thegrid.ai/why-fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 23:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 23:53:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/why-fi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[A New Generation of Wi-Fi Design - Divergent Dynamics]]></title>
+            <description><![CDATA[<article><h1>A New Generation of Wi-Fi Design - Divergent Dynamics</h1><p>I have recently overheard the following in regard to "selling more APs." "Let's recommend two APs per classroom for more capacity." "Just go with one AP per classroom. It's easier." "We recommend an 8-radio array per classroom for future proofing." I'm in no way poking at any vendor here.</p><img src="http://divdyn.com/wp-content/uploads/2015/02/5GHZ_ONLY-300x225.jpg"></article>]]></description>
+            <link>http://divdyn.com/new-generation-wi-fi-design/</link>
+            <guid isPermaLink="false">098fd6ac-c97d-41b4-aebc-f1d4b28dbd27</guid>
+            <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CWNP]]></title>
-            <description><![CDATA[<article><h1>CWNP</h1><p>Welcome to the 802.11 series of blogs for beginners in the field of wireless networking. In this blog, we will discuss the basic components of the 802.11 MAC architecture. The basic component of any network communication is data, which is in the form of packets, frames, or bits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85354b49f8b329824f92d31e79e15e741f89a0b5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CWNP</h1><p>Welcome to the 802.11 series of blogs for beginners in the field of wireless networking. In this blog, we will discuss the basic components of the 802.11 MAC architecture. The basic component of any network communication is data, which is in the form of packets, frames, or bits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64123192896f40fd5a76d2e432875c08f2f86658.jpg"></article>]]></description>
             <link>https://www.cwnp.com/802.11-mac-series-ndash-basics-mac-architecture-ndash-part-1-3/</link>
             <guid isPermaLink="false">1271442f-1311-44f6-80d2-75534d17b998</guid>
             <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
@@ -22,14 +29,14 @@
         </item>
         <item>
             <title><![CDATA[CWNP]]></title>
-            <description><![CDATA[<article><h1>CWNP</h1><p>I literally just came out of the testing centre having taken the CWDP exam. The certification process opened my mind to different techniques and solutions. This knowledge can only broaden your perspective. Great job, CWNP, you have a great thing going on here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85354b49f8b329824f92d31e79e15e741f89a0b5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>CWNP</h1><p>I literally just came out of the testing centre having taken the CWDP exam. The certification process opened my mind to different techniques and solutions. This knowledge can only broaden your perspective. Great job, CWNP, you have a great thing going on here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64123192896f40fd5a76d2e432875c08f2f86658.jpg"></article>]]></description>
             <link>https://www.cwnp.com/events/</link>
             <guid isPermaLink="false">34fb8ed4-3185-4535-93bb-1221405b56f4</guid>
             <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Airheads Community]]></title>
-            <description><![CDATA[<article><h1>Airheads Community</h1><p>This is the third blog post in a series about WLAN capacity planning. Be sure to read the first and second posts. In my previous post, I outlined the major factors affecting network performance, including geographic delay (latency), serialization delay (commonly referred to as bandwidth or speed), and variable contention delay (another form of latency, often forgotten).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d5cfd894a5dcc8330b0ff68c258d8c645cf173d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Airheads Community</h1><p>This is the third blog post in a series about WLAN capacity planning. Be sure to read the first and second posts. In my previous post, I outlined the major factors affecting network performance, including geographic delay (latency), serialization delay (commonly referred to as bandwidth or speed), and variable contention delay (another form of latency, often forgotten).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef78459efa82a32b715fb3799f877a037360ecee.jpg"></article>]]></description>
             <link>http://community.arubanetworks.com/t5/Technology-Blog/Understanding-802-11-Medium-Contention/ba-p/232034</link>
             <guid isPermaLink="false">ca1367c6-5839-40c6-b90c-0b0d11efd20f</guid>
             <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
