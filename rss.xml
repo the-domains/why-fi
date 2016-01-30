@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Why Fi]]></title>
         <description><![CDATA[Why Fi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/why-fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 23:36:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 23:36:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/why-fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CWNA Study Guide Book Review]]></title>
+            <description><![CDATA[<article><h1>CWNA Study Guide Book Review</h1><p>You were tasked with deploying WiFi for the enterprise. To your surprise, it hasn't been working well. People are complaining it's slow and they can't get work done. Getting a WiFi signal is easy but deploying it correctly is a process. You need the CWNA study guide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd80e2fb2062202dee94706541988a0c4667b42.jpg"></article>]]></description>
+            <link>https://www.packet6.com/cwna-certified-wireless-network-administrator-official-study-guide-book-review/</link>
+            <guid isPermaLink="false">d9a6393a-17ad-433e-979f-5f627a920505</guid>
+            <pubDate>Sat, 30 Jan 2016 23:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moo-MIMO - Divergent Dynamics]]></title>
             <description><![CDATA[<article><h1>Moo-MIMO - Divergent Dynamics</h1><p>I readily admit that I could be all wet on this blog, so I have posed the title as a request rather than an assertion. I am going to state my current opinions on various aspects of 802.11ac Wave-2 technology, as it relates to enterprise customers, in the hopes that if I'm off-base, someone smarter than me will help me understand the error(s) of my thinking.</p></article>]]></description>
