@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 30 Jan 2016 23:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/why-fi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Emperor's Proclamations]]></title>
-            <description><![CDATA[<article><h1>The Emperor's Proclamations</h1><p>Dynamic VLANs are a fairly common feature used in large corporate enterprise applications such as hospitals, universities, large corporate offices, and similar.Dynamic VLANs are fairly unusual in SMB environments, as WPA2 Enterprise is required as a prerequisite, though using WPA2 Enterprise does not necessarily require use of Dynamic VLANs.</p></article>]]></description>
-            <link>http://www.emperorwifi.com/2015/11/dynamic-vlans-simple-explanation.html</link>
-            <guid isPermaLink="false">d6a47c84-5ae3-4405-b755-dfd33ec8a732</guid>
-            <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CWNP]]></title>
             <description><![CDATA[<article><h1>CWNP</h1><p>I literally just came out of the testing centre having taken the CWDP exam. The certification process opened my mind to different techniques and solutions. This knowledge can only broaden your perspective. Great job, CWNP, you have a great thing going on here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85354b49f8b329824f92d31e79e15e741f89a0b5.jpg"></article>]]></description>
             <link>https://www.cwnp.com/events/</link>
@@ -29,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Cisco Tophat]]></title>
-            <description><![CDATA[<article><h1>Cisco Tophat</h1><p>For the love of networking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6775644edf10075b41fb84e0f1de6c0d1d3bcf18.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cisco Tophat</h1><p>For the love of networking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cfb65b1c7c700648de1f097564039cf1cb749a.jpg"></article>]]></description>
             <link>https://ciscotophat.wordpress.com/</link>
             <guid isPermaLink="false">c41af3d8-2046-47b4-a94a-f8a34f2ed1dc</guid>
             <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
