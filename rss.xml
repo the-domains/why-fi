@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 30 Jan 2016 23:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/why-fi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[CWNP]]></title>
-            <description><![CDATA[<article><h1>CWNP</h1><p>I literally just came out of the testing centre having taken the CWDP exam. The certification process opened my mind to different techniques and solutions. This knowledge can only broaden your perspective. Great job, CWNP, you have a great thing going on here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85354b49f8b329824f92d31e79e15e741f89a0b5.jpg"></article>]]></description>
-            <link>https://www.cwnp.com/events/</link>
-            <guid isPermaLink="false">34fb8ed4-3185-4535-93bb-1221405b56f4</guid>
-            <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Airheads Community]]></title>
             <description><![CDATA[<article><h1>Airheads Community</h1><p>This is the third blog post in a series about WLAN capacity planning. Be sure to read the first and second posts. In my previous post, I outlined the major factors affecting network performance, including geographic delay (latency), serialization delay (commonly referred to as bandwidth or speed), and variable contention delay (another form of latency, often forgotten).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d5cfd894a5dcc8330b0ff68c258d8c645cf173d.jpg"></article>]]></description>
             <link>http://community.arubanetworks.com/t5/Technology-Blog/Understanding-802-11-Medium-Contention/ba-p/232034</link>
@@ -22,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Cisco Tophat]]></title>
-            <description><![CDATA[<article><h1>Cisco Tophat</h1><p>For the love of networking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19cfb65b1c7c700648de1f097564039cf1cb749a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cisco Tophat</h1><p>For the love of networking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>https://ciscotophat.wordpress.com/</link>
             <guid isPermaLink="false">c41af3d8-2046-47b4-a94a-f8a34f2ed1dc</guid>
             <pubDate>Sat, 30 Jan 2016 23:52:38 GMT</pubDate>
