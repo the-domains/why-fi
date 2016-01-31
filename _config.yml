@@ -1,14 +1,28 @@
+name: Why Fi
+favicon: null
 layout_spectrum: 0.9317032
+typography_spectrum: 0.5067453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2976391
-  brandStrength: 0.8338954
-  lightness: 0.188027
   brandColors:
     - '#E9EAE8'
     - '#161603'
     - '#5D656E'
     - '#FF5C01'
     - '#6E3901'
-  rhythmicContrast: 0.6821248
-typography_spectrum: 0.5067453
-name: Why Fi
+  brandStrength: 0.8338954
+  lightness: 0.188027
+  saturation: 0.2976391
+  rhythmicContrast: 0.5
+purpose: []
