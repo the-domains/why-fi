@@ -2,6 +2,7 @@ name: Why Fi
 favicon: null
 layout_spectrum: 0.46912
 typography_spectrum: 0.5067453
+title: An effort to aggregate great explanations of WiFi design and troubleshooting from experts around the world.
 cta:
   domain: null
   bucket: null
