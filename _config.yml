@@ -1,29 +1,43 @@
-name: Why Fi
-favicon: null
-layout_spectrum: 0.46912
-typography_spectrum: 0.5067453
-title: An effort to aggregate great explanations of WiFi design and troubleshooting from experts around the world.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: >-
+  An effort to aggregate great explanations of WiFi design and troubleshooting
+  from experts around the world.
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2976391
+  brandStrength: 0.8338954
+  rhythmicContrast: 0.5
   brandColors:
     - '#E9EAE8'
     - '#161603'
     - '#5D656E'
     - '#FF5C01'
     - '#6E3901'
-  brandStrength: 0.8338954
   lightness: 0.188027
-  saturation: 0.2976391
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Why Fi
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5067453
+layout_spectrum: 0.9686717
